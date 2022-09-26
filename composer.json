@@ -1,0 +1,13 @@
+{
+    "name": "gornymedia/skeleton-bundle",
+    "license": "MIT",
+    "type": "symfony-bundle",
+    "autoload": {
+        "psr-4": {
+            "Gornymedia\\SkeletonBundle\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/framework-bundle": "^5.0 || ^6.0"
+    }
+}
